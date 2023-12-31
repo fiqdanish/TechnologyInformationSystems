@@ -8,6 +8,8 @@ The poster consists of the summary from the talk given by PPG Industry and Mr Ha
 
 - <b>Canva</b>
 
+<h2>Reflections</h2>
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
