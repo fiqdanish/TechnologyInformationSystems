@@ -24,7 +24,7 @@ PPG Talk:  <br/><br/>
 
 <p align="center">
 Petronas Visit: <br/><br />
-<img src="https://i.imgur.com/sheysTI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1aV5DH6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Huawei Visit:  <br/><br/>
