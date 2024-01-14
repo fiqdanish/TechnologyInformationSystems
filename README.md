@@ -28,7 +28,7 @@ UTM Digital Visit:  <br/><br/>
 <br />
 <br />
 Credence Talk:  <br/><br/>
-<img src="https://i.imgur.com/xlNoNp2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ub9xf1l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
