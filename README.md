@@ -28,7 +28,7 @@ Petronas Visit: <br/><br />
 <br />
 <br />
 Huawei Visit:  <br/><br/>
-<img src="https://i.imgur.com/Ph7MQE4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xlNoNp2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br/>
