@@ -41,6 +41,14 @@ Huawei Visit:  <br/><br/>
 <p align="center">
 Interview Session with Mr Aris: <br/><br />
 <img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Our Prototype:  <br/><br/>
+<img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br/>
+</p>
   
 <h2>Reflections</h2>
 
