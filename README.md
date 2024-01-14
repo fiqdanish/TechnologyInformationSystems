@@ -24,7 +24,7 @@ Huawei Visit:  <br/><br/>
 <br />
 <br />
 UTM Digital Visit:  <br/><br/>
-<img src="https://i.imgur.com/xlNoNp2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d5QqUrV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Credence Talk:  <br/><br/>
