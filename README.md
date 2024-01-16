@@ -8,27 +8,27 @@ This courses is mainly provide the students with the basic knowledge of computer
 
 <p align="center">
 Habib Talk: <br/><br />
-<img src="https://i.imgur.com/sheysTI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sheysTI.jpg" height="80%" width="80%" alt="Habib"/>
 <br />
 <br />
 PPG Talk:  <br/><br/>
-<img src="https://i.imgur.com/Ph7MQE4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ph7MQE4.png" height="80%" width="80%" alt="PPG"/>
 <br />
 <br />
 Petronas Visit: <br/><br />
-<img src="https://i.imgur.com/1aV5DH6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1aV5DH6.jpg" height="80%" width="80%" alt="Petronas"/>
 <br />
 <br />
 Huawei Visit:  <br/><br/>
-<img src="https://i.imgur.com/xlNoNp2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xlNoNp2.jpg" height="80%" width="80%" alt="Huawei"/>
 <br />
 <br />
 UTM Digital Visit:  <br/><br/>
-<img src="https://i.imgur.com/d5QqUrV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d5QqUrV.jpg" height="80%" width="80%" alt="UTM Digital"/>
 <br />
 <br />
 Credence Talk:  <br/><br/>
-<img src="https://i.imgur.com/Ub9xf1l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ub9xf1l.png" height="80%" width="80%" alt="Credence"/>
 <br />
 </p>
 
@@ -38,11 +38,11 @@ Credence Talk:  <br/><br/>
 
 <p align="center">
 Interview Session with Mr Aris: <br/><br />
-<img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Mr Aris Interview"/>
 <br />
 <br />
 Our Prototype:  <br/><br/>
-<img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ayDQuuW.jpg" height="80%" width="80%" alt="Prototype"/>
 <br />
 <br />
 <br/>
