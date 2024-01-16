@@ -58,6 +58,13 @@ Interview Session with Mr Aris: <br/><br />
 
 <h2>PC Assemble</h2>
 
+<p align="center">
+<br/><br />
+<img src="https://i.imgur.com/Of30MNm.jpg" height="80%" width="80%" alt="PC Assemble"/>
+<br />
+<br />
+</p>
+
 <h2>Reflections</h2>
 
 <b> What do I get ? </b>
