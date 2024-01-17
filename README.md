@@ -1,7 +1,7 @@
 <h1>Technology & Information Systems</h1>
 
 <h2>Description</h2>
-This courses is mainly provide the students with the basic knowledge of computer science as well as giving an early exposure to the industry and encourage students to have an engagement with the experienced individual 
+As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a part of work-based learning. Both industry visits and talks will expose students to a real working environment, get knowledge from the industry and increase engagement between university and industry. The student also needs to briefly explore the requirements and job specifications for a career in IT.
 <br />
 
 <h2>Industry Talk and Industry Visit</h2>
