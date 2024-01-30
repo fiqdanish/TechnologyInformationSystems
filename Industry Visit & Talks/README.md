@@ -13,6 +13,15 @@ PPG Talk:  <br/><br/>
 
 <h2>Reflections</h2>
 
+I have learned that we need to develop our
+softskills to be displayed in our resume and cv
+as it is the most crucial part that all industries
+will be looking before hire an employee into their company. Not to mention that we also have to prepare our
+portfolio and record what we’ve learned from
+our early first year until the final year of our
+degree so that we can build a good portfolio to
+attract the recruiters from various company.
+
 <h2>Petronas and Huawei Visits</h2>
 
 <p align="center">
