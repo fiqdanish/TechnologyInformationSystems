@@ -14,83 +14,102 @@ As a primer subject, this course will introduce students to information systems 
 * Chapter 7 : Privacy, Security and Ethics
 * Chapter 8 : Cloud Computing
 
+## Week 1 - 08.10.23
+- **Overview of:**
+  - Course Information
+  - E-portfolio (Github)
+  - Design Thinking Project
 
-<h2>Industry Talk and Industry Visit</h2>
+## Week 2 - 15.10.23
+- **Overview of:**
+  - Chapter 1: Emerging Technology in ICT
+  - Chapter 2: Hardware
 
-<p align="center">
-Habib Talk: <br/><br />
-<img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
-<br />
-<br />
-PPG Talk:  <br/><br/>
-<img src="https://i.imgur.com/Ph7MQE4.png" height="30%" width="70%" alt="PPG"/>
-<br />
-<br />
-Petronas Visit: <br/><br />
-<img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
-<br />
-<br />
-Huawei Visit:  <br/><br/>
-<img src="https://i.imgur.com/xlNoNp2.jpg" height="30%" width="70%" alt="Huawei"/>
-<br />
-<br />
-UTM Digital Visit:  <br/><br/>
-<img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
-<br />
-<br />
-Credence Talk:  <br/><br/>
-<img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
-<br />
-</p>
+## Week 3 - 22.10.23
+- **Overview of:**
+  - Chapter 3: Software
+  - Chapter 4: Information Systems & Methodology
+- **Activities:**
+  - PC Assemble (Group 1 - 30pax)
+  - Quiz (Subject to change)
 
-<h2>Reflections</h2>
+## Week 4 - 29.10.23
+- **Overview of:**
+  - Chapter 5: Databases and Data Analytics
+  - Chapter 6: Networks and Communications
+- **Activities:**
+  - PC Assemble (Group 2 - 30pax)
+  - Quiz (Subject to change)
 
-<b> What do I get ? </b>
+## Week 5 - 05.11.23
+- **Overview of:**
+  - Chapter 7: Privacy, Security, and Ethics
+  - Chapter 8: Cloud Computing
 
-- I got to see how the environment of the work in real life look like
-- I have to develop the ability of lifelong learning in myself because lot of people that I had met from different industry, they share a common traits which is they never stop learning and keep trying to catch up with the advance technologies nowadays
-- I met with a lot of experienced person in IT field and I am inspired to be like them in the future
-- Lastly, I also got to have fun while enjoying the trip to the industry that I visited
+## Week 6 - 12.11.23
+- **Activities:**
+  - Industry Talk 1
+  - Assignment 1
+- **Proposed Title:** Overview of Jobs in ICT
+- **Proposed Industry:** TBC
+- **Proposed Date / Time:** 14.11.2023 / 2.30-4.30 PM
+- **Note:** Public Holiday: Deepavali (12.11.2023)
 
-<b> Suggestion for improvement </b>
+## Week 7 - 19.11.23
+- **Activities:**
+  - Industry Visit 1
+  - Assignment 2
+- **Proposed Industry:** UTMDigital
+- **Proposed Date:** TBC
+- **Proposed Time:** TBC
 
-- The faculty should definitely bring all of the students for industry visit frequently as it provides an early exposure of the real time work experience and also giving an essential skills and tips on how to succeed in our career
+## Week 8 - 26.11.23
+- **MID TERM BREAK**
 
-<h2>Design Thinking Project</h2>
+## Week 9 - 03.12.23
+- **Design Thinking Pitch Part I**
+  - Group 1
+  - Group 2
+  - Group 3
 
-<p align="center">
-Interview Session with Mr Aris: <br/><br />
-<img src="https://i.imgur.com/ayDQuuW.jpg" height="30%" width="70%" alt="Mr Aris Interview"/>
-<br />
-<br />
-</p>
-  
-<h2>Reflections</h2>
+## Week 10 - 10.12.23
+- **Design Thinking Pitch Part II**
+  - Group 4
+  - Group 5
+  - Group 6
 
-<b> What do I get ? </b>
+## Week 11 - 17.12.23
+- **Design Thinking Pitch Part III**
+  - Group 7
+  - Group 8
 
-- I learned how to communicate with my clients properly and understand their needs
-- I also need to develop a high problem solving skills in order to provide the best solution to fulfill my clients' needs
-- Not to mention, I also able to build the trust between my groupmates throughout this projects
-  
-<h2>PC Assemble</h2>
+## Week 12 - 24.12.23
+- **Activities:**
+  - Industry Talk 2
+  - Assignment 3
+- **Proposed Title:** The Future of Software Development
+- **Proposed Industry:** TBC
+- **Proposed Date / Time:** 26.12.2023 / 2.30-4.30 PM
+- **Note:** Public Holiday: Christmas Day (25.12.2023)
 
-<p align="center">
-<br/><br />
-<img src="https://i.imgur.com/Of30MNm.jpg" height="30%" width="70%" alt="PC Assemble"/>
-<br />
-<br />
-</p>
+## Week 13 - 31.12.23
+- **Activities:**
+  - Industry Visit 2
+  - Assignment 4
 
-<h2>Reflections</h2>
+## Week 14 - 07.1.24
+- **Test Preparation and Revision**
 
-<b> What do I get ? </b>
+## Week 15 - 14.1.24
+- **Test**
+- **Proposed Venue:** MPK1-10
+- **Proposed Date:** 16/01/2024
+- **Proposed Time:** 2.30-4.30 PM
 
-- I have learned about the basic components and hardwares of the computer and how to assemble as well as disassemble them
-- Besides, I learned how to work as a team and interact with each other because I need to work in team to assemble/disassemble the PC components
+## Week 16 - 21.1.24
+- **Eportfolio Submission**
 
-<b> Suggestion for improvement </b>
 
-- The PC components should be upgraded or replaced because it seems old and might be damaged in the future
+
 
 
